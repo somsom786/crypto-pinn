@@ -1,0 +1,5 @@
+{
+  "name": "EtherHedge AI | Real-Time Delta Hedger",
+  "description": "A High-Frequency Trading dashboard visualizing Physics-Informed Neural Network (PINN) inference for ETH options hedging using live Binance data.",
+  "requestFramePermissions": []
+}
